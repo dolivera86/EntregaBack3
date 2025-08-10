@@ -1,0 +1,6 @@
+[2025-08-10T22:44:05.285Z] INFO: Inicio
+[2025-08-10T22:44:05.289Z] INFO: Generado correctamente
+[2025-08-10T22:44:19.417Z] INFO: Inicio endpoint /mockingusers
+[2025-08-10T22:44:19.480Z] INFO: Generados 50 usuarios en 62ms
+[2025-08-10T22:45:15.747Z] INFO: Inicio endpoint /generateData
+[2025-08-10T22:45:15.978Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
