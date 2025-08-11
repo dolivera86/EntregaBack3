@@ -4,3 +4,27 @@
 [2025-08-10T22:44:19.480Z] INFO: Generados 50 usuarios en 62ms
 [2025-08-10T22:45:15.747Z] INFO: Inicio endpoint /generateData
 [2025-08-10T22:45:15.978Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
+[2025-08-10T23:11:06.212Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:11:06.409Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
+[2025-08-10T23:12:54.345Z] INFO: Inicio endpoint /mockingusers
+[2025-08-10T23:12:54.406Z] INFO: Generados 50 usuarios en 61ms
+[2025-08-10T23:13:38.726Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:13:38.923Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
+[2025-08-10T23:14:05.737Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:14:05.894Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
+[2025-08-10T23:14:13.479Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:14:13.640Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
+[2025-08-10T23:15:29.584Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:15:29.693Z] INFO: Generados e insertados 10 usuarios y 0 mascotas
+[2025-08-10T23:15:55.520Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:15:55.578Z] INFO: Generados e insertados 0 usuarios y 0 mascotas
+[2025-08-10T23:21:45.884Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:21:45.944Z] INFO: Generados e insertados 0 usuarios y 0 mascotas
+[2025-08-10T23:21:55.059Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:21:55.114Z] INFO: Generados e insertados 0 usuarios y 0 mascotas
+[2025-08-10T23:26:42.618Z] INFO: Inicio endpoint /generateData
+[2025-08-10T23:26:42.675Z] INFO: Generados e insertados 0 usuarios y 0 mascotas
+[2025-08-11T01:32:02.332Z] INFO: Inicio endpoint /generateData
+[2025-08-11T01:32:32.880Z] ERROR: Error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2025-08-11T01:33:05.654Z] INFO: Inicio endpoint /generateData
+[2025-08-11T01:33:05.824Z] INFO: Generados e insertados 10 usuarios y 10 mascotas
